@@ -1,0 +1,18 @@
+.bandeau-questions{
+	width: 1493px;
+	padding: 70px 45px 70px 45px;
+	background-color: black;
+	border-bottom: 8px solid;
+	border-color: rgb(34,34,34);
+}
+
+@media (max-width: 540px) {
+  .bandeau-questions{
+    width:100%;
+    padding:0px 0px 0px 0px;
+    height: 1000px;
+    margin: 0px auto;
+    padding-left: 0px;
+
+  }
+}

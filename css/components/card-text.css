@@ -1,0 +1,19 @@
+.card-text{
+	width: 547.047px;
+	height: 235px;
+	padding-right: 48px;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+@media (max-width: 540px) {
+  .card-text{
+    width:100%;
+    padding:0px 0px 0px 0px;
+    height: 180px;
+    margin: 0px auto;
+    padding-left: 0px;
+
+  }
+}

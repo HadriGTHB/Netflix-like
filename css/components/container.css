@@ -1,0 +1,21 @@
+
+.container {
+  justify-content: center;
+  text-align: center;
+  width: 950px;
+  height: 322.594px;
+  padding: 130px 0px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+@media (max-width: 540px) {
+  .container{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0px 0px;
+  }
+
+}

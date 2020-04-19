@@ -1,0 +1,39 @@
+.btn-red {
+	background-color: #e50914;
+	width: 135.075px;
+	height: 52px;
+	padding: 10px 52px 10px 25.8px;
+	border
+	margin: 1px 1px 1px 1px;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
+	text-decoration: none;
+	text-align: center;
+	border-radius: 2px;
+	color: white;
+	font-size: 30px;
+	font: helvetica;
+	cursor: pointer;
+	vertical-align: center;
+	display: flex;
+	align-items: center;
+}
+
+.btn-red:hover{
+	background-color: rgb(244, 6, 18);
+}
+
+.button-red:target{
+	background-color: blue;
+}
+
+
+@media (max-width: 540px) {
+  .btn-red {
+  	width:73px;
+  	height:30.8px;
+  	padding:5.6px 35.2px 5.6px 16px;
+  	font-size: 16px;
+  	margin-bottom: 20px;
+
+  }
+}

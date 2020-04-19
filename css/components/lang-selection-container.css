@@ -1,0 +1,23 @@
+.lang-selection-container {
+  margin-top: 20px;
+}
+
+.lang-selection-container .ui-select-wrapper {
+  width: auto;
+}
+.lang-selection-container .ui-select-wrapper .select-arrow.prefix::before {
+  top: 14px;
+}
+.lang-selection-container .ui-select-wrapper .select-arrow.prefix .ui-select.medium {
+  text-indent: 0;
+  padding-right: 26px;
+}
+.lang-selection-container .ui-select {
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f7f7f7));
+  background-image: -webkit-linear-gradient(top, #fff, #f7f7f7);
+  background-image: -moz- oldlinear-gradient(top, #fff, #f7f7f7);
+  background-image: -o-linear-gradient(top, #fff, #f7f7f7);
+  background-image: linear-gradient(to bottom, #fff, #f7f7f7);
+  font-size: 13px;
+}

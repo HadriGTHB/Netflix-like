@@ -1,0 +1,19 @@
+.subtitle{
+	width: 547.047px;
+	color:white;
+	margin-top: 19.5px;
+	margin-bottom: 6.5px;
+	font-size: 26px;
+	font-family: 'helvetica';
+}
+
+@media (max-width: 540px) {
+  .subtitle{
+    font-size: 18px;
+    width:435px;
+    text-align: center;
+    height: 69px;
+    margin: 0px auto;
+
+  }
+}

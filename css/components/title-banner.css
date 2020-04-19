@@ -1,0 +1,29 @@
+#title-banner{
+	width: 640px;
+	height:	140px;
+	margin: 0px 155px;
+}
+
+#title-banner h1 {
+	font-size: 64px;
+	font-weight: bold;
+	margin:0px 0px;
+}
+
+
+
+
+@media (max-width: 540px) {
+  #title-banner {
+  	width: 430px;
+  	height: 60px;
+    font-size: 15px;
+    margin:0px auto;
+  }
+}
+
+@media (max-width: 540px) {
+  #title-banner h1 {
+  	font-size: 28px;
+  }
+}

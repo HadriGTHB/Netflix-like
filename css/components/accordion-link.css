@@ -1,0 +1,31 @@
+.accordion-link{
+	font-family: 'helvetica';
+	font-size: 26px;
+	color:white;
+	text-decoration: none;
+	background-color: rgb(48,48,48);
+	width:745px;
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 0px;
+	margin-left:35px;
+	margin-right: 35px;
+}
+
+.accordion-link .ion-md-close{
+	display:none;
+}
+
+
+
+@media (max-width: 540px) {
+  .accordion-link{
+  	width: 400px;
+  	height: 23px;
+  	padding: 14.4px 39.6px;
+  	font-size: 18px;
+    
+  }
+}
+

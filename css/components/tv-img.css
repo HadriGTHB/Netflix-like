@@ -1,0 +1,14 @@
+#tv-img{
+	width: 530.188px;
+	height: 397.641px;
+}
+
+
+@media (max-width: 540px) {
+  #tv-img{
+  	width: 434px;
+  	height: 326px;
+  	margin-left:20px;
+    
+  }
+}

@@ -1,0 +1,65 @@
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/header.css");
+@import url("components/id-button.css");
+@import url("components/netflix-logo.css");
+@import url("components/title-banner.css");
+@import url("components/subtitle-banner.css");
+@import url("components/emailbox.css");
+@import url("components/email.css");
+@import url("components/button-red.css");
+@import url("components/bandeaux.css");
+@import url("components/bandeaux-container.css");
+@import url("components/card-text.css");
+@import url("components/title.css");
+@import url("components/subtitle.css");
+@import url("components/img-card.css");
+@import url("components/tv-img.css");
+@import url("components/phone-card.css");
+@import url("components/stranger-thg.css");
+@import url("components/img-st.css");
+@import url("components/divtxt-sthg.css");
+@import url("components/titlesthg.css");
+@import url("components/subtitlesthg.css");
+@import url("components/bandeau-questions.css");
+@import url("components/faq-card.css");
+@import url("components/bouton-faq.css");
+@import url("components/quest-card.css");
+@import url("components/accordion-items.css");
+@import url("components/accordion-link.css");
+@import url("components/answer.css");
+@import url("components/accordion.css");
+@import url("components/text-bottom.css");
+@import url("components/bandeau-bottom.css");
+@import url("components/site-footer.css");
+@import url("components/footer-top.css");
+@import url("components/footer-links.css");
+@import url("components/link.css");
+@import url("components/link-item.css");
+@import url("components/lang-selection-container.css");
+@import url("components/bouton-langue.css");
+@import url("components/card-textsthg.css");
+
+
+
+
+
+
+
+body{
+	margin:0px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	background-color: #f3f3f3;
+	color: #333333;
+	font-size: 19.2px;
+	direction: ltr;
+}
+
+body.h1{
+	font-weight: bold;
+	font-size: 64px;
+}
+
+body.h2{
+	
+}

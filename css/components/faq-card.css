@@ -1,0 +1,19 @@
+.faq-card{
+	width:1493px;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+
+@media (max-width: 540px) {
+  .faq-card{
+    width:100%;
+    padding:0px 0px 0px 0px;
+    height: 100%;
+    margin: 0px auto;
+    padding-left: 0px;
+    border-top: 20px solid;
+    border-color: black;
+
+  }
+}

@@ -1,0 +1,12 @@
+#netflix-logo{
+	padding: 8px 0px 0px;
+	background-size: cover;
+  	height: 45px;
+  	width: 167px;
+}
+
+@media (max-width: 540px) {
+  #netflix-logo{
+    width: 88px;
+    height:24px;
+  }

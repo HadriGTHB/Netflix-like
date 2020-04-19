@@ -1,0 +1,28 @@
+#email-form-title{
+	width:811.109px;
+	height:24px;
+	margin: 69.438px 0px 69.438px 0px;
+	font-size: :19.2px;
+	font-family:'helvetica';
+	text-align: center;
+	letter-spacing: 1px;
+
+}
+
+@media (max-width: 540px) {
+  #email-form-title{
+    width: 347px;
+    height: 69px;
+    padding:0px 0px;
+   
+
+  }
+}
+
+@media (max-width: 540px) {
+  #email-form-title h4{
+    font-size:18px;
+   
+
+  }
+}

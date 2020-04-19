@@ -1,0 +1,14 @@
+.quest-card{
+	width: 100%;
+	max-width: 80rem;
+	margin: 0px auto;
+	padding: 0px 1.5rem;
+}
+
+
+
+@media (max-width: 540px) {
+  .quest-card{
+  	padding:0px 0px;    
+  }
+}

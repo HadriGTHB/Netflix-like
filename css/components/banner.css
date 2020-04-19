@@ -1,0 +1,21 @@
+.banner {
+	flex-direction: column;
+	background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 30%, rgba(0, 0, 0, 0.3) 42%, rgba(0, 0, 0, 0.8) 90%), url(../../images/banniere.jpg);
+	background-size: cover;
+	background-position: center;
+	width:1583px;
+	height:712.594px;
+	color: white;
+	padding: 0px 0px;
+	border-bottom: 8px solid;
+	border-color: rgb(34,34,34);
+}
+
+
+
+@media (max-width: 540px) {
+  .banner{
+    width: 500px;
+
+  }
+}

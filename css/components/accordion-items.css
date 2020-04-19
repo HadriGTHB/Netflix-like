@@ -1,0 +1,22 @@
+.accordion-items{
+	background-color: rgb(48,48,48);
+	margin-bottom: 1rem;
+	color:white;
+	font-family: 'helvetica'
+	font-size: 26px;
+}
+
+
+.accordion-items:target .answer{
+	max-height: 25rem;
+
+}
+
+
+.accordion-items:target .accordion-link .ion-md-add{
+	display:none;
+}
+
+.accordion-items:target .accordion-link .ion-md-close{
+	display:block;
+}
